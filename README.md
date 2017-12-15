@@ -1,13 +1,14 @@
 # Selenium Automated Testing on Alaska Airline official website - www.alaskaair.com
 
-The **Selenium Testing** tests the sign-in process, verifies the account information, performs searching and booking flight tickets. It's developed using Selenium WebDriver, testing framework TestNG, Maven to manage dependencies, log4j to generate logs, Jenkins to build tests and publish test results.
+The project tests the sign-in process, verifies the account information and performs searching and booking flight tickets. It's developed using Selenium WebDriver, testing framework TestNG, Maven to manage dependencies, log4j to generate logs, Jenkins to build tests and publish test results.
 
-*Demo*:
-First testing tests the sign-in functionality and verifies the account information.
+*Demo*:  
+1. First testing tests searching and booking 3 adult flight tickets from San Jose to Seattle on 01/01/2018.  
 
 ![demo](./demo/demo_test1.gif)
-Second testing tests searching and booking 3 adult flight tickets on 01/18/2017
-At the end, the terminal displays all two testings pass.
+
+2. Second testing tests the sign-in functionality and verifies the account's mileage plan number.  
+   At the end, the terminal displays all two testings are successful.
 
 ![demo](./demo/demo_test2.gif)
 
