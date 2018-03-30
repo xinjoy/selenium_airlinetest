@@ -16,7 +16,7 @@ The project tests the sign-in process, verifies the account information and perf
 
 Clone the repository.
 ```bash
-$ git clone https://github.com/xxin666/selenium_airlinetest.git
+$ git clone https://github.com/xinjoy/selenium_airlinetest.git
 ```
 
 ## Run
